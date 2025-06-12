@@ -1,6 +1,3 @@
-# GJLGameParadeSpring2025
-GJLGameParadeSpring2025
-
 # 🏰 GJLGameParadeSpring2025
 
 **A FPS GAME in Unreal Engine with Blueprints **
