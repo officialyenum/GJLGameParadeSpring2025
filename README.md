@@ -6,8 +6,8 @@ GJLGameParadeSpring2025
 **A FPS GAME NAME in Unreal Engine with Blueprints **
 
 ![Unreal Engine](https://img.shields.io/badge/Engine-Unreal%20Engine-1f1f1f?logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/Language-C++-blue)
-![Multiplayer](https://img.shields.io/badge/Gameplay-Multiplayer-green)
+![Blueprint](https://img.shields.io/badge/Language-C++-blue)
+![Single Player](https://img.shields.io/badge/Gameplay-Multiplayer-green)
 
 ---
 
