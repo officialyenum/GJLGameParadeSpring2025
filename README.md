@@ -58,14 +58,14 @@ I'm actively building the game with the following milestones:
 ## 📂 Repo Structure
 
 ```
-/Source/GidiDungeon/          --> Main C++ game logic
-/Source/GidiDungeon/Game      --> Game Mode, State and Instance logic
-/Source/GidiDungeon/Character --> Character logic
-/Source/GidiDungeon/Player    --> Player Controller and State logic
-/Source/GidiDungeon/Component --> Player and Game System Logic will go here
-/Source/GidiDungeon/Data      --> Interfaces, Struct and Enumerations will be declared here
-/Source/GidiDungeon/Spells/   --> Spell-related C++ classes
-/Source/GidiDungeon/Chests/   --> Chest interaction & treasure logic
+/Source/GJLGameParadeSpring2025/          --> Main C++ game logic
+/Source/GJLGameParadeSpring2025/Game      --> Game Mode, State and Instance logic
+/Source/GJLGameParadeSpring2025/Character --> Character logic
+/Source/GJLGameParadeSpring2025/Player    --> Player Controller and State logic
+/Source/GJLGameParadeSpring2025/Component --> Player and Game System Logic will go here
+/Source/GJLGameParadeSpring2025/Data      --> Interfaces, Struct and Enumerations will be declared here
+/Source/GJLGameParadeSpring2025/Spells/   --> Spell-related C++ classes
+/Source/GJLGameParadeSpring2025/Chests/   --> Chest interaction & treasure logic
 /Maps/                        --> UE5 levels
 /Blueprints/                  --> Blueprint integrations for UI, extending C++ LOGIC & visuals
 /Inputs/                      --> Input Mapping and Actions
@@ -79,22 +79,20 @@ I'm actively building the game with the following milestones:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/officialyenum/GidiDungeon.git
+   git clone https://github.com/officialyenum/GJLGameParadeSpring2025.git
    ```
 
 2. Open the `.uproject` file in Unreal Engine 5.
 
-3. Press **Play** (or run a multiplayer session via Play-In-Editor with multiple clients).
+3. Press **Play** via Play-In-Editor client.
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Team
 
-Hi! I'm **Chukwuyenum Opone**, a game developer focused on gameplay systems and multiplayer mechanics using Unreal Engine and C++. I’m building this project to deepen my understanding of networked game programming and systems design.
+**Daniel Slater** - Game Designer
+**Chukwuyenum Opone** - Game Programmer
 
-Feel free to reach out or connect:
-- 📧 [oponechukwuyenum@gmail.com]
-- 🌐 [yenum.dev]
 
 ---
 
@@ -115,7 +113,7 @@ Stay tuned for GIFs and gameplay footage!
 
 ## 📣 Feedback & Collaboration
 
-This is a solo development project, but I’m always open to feedback, ideas, or potential collaboration. If you're into Unreal multiplayer games, feel free to [open an issue](#) or fork the project!
+This is a group development project, but We are always open to feedback, ideas, or potential collaboration. If you're into Unreal games, feel free to [open an issue](#) or fork the project!
 
 ---
 
