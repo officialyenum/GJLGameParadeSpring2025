@@ -3,11 +3,10 @@ GJLGameParadeSpring2025
 
 # 🏰 GJLGameParadeSpring2025
 
-**A FPS GAME NAME in Unreal Engine with Blueprints **
+**A FPS GAME in Unreal Engine with Blueprints **
 
 ![Unreal Engine](https://img.shields.io/badge/Engine-Unreal%20Engine-1f1f1f?logo=unrealengine&logoColor=white)
-![Blueprint](https://img.shields.io/badge/Language-C++-blue)
-![Single Player](https://img.shields.io/badge/Gameplay-Multiplayer-green)
+![Blueprint](https://img.shields.io/badge/script-blueprint-blue?script=blueprint&logoColor=f5f5f5)
 
 ---
 
