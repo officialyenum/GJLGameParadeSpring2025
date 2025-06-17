@@ -15,7 +15,7 @@ This project is built using **Unreal Engine 5** and **Blueprint**, with a focus 
 
 ---
 
-## 🧩 Core Features (Replace)
+## 🧩 Core Features
 
 - 🎯 **Puzzles**
 - 🧙‍♂️ **Player Interactions**
@@ -32,6 +32,7 @@ I'm actively building the game with the following milestones:
 - [x] Game Mode, and Instance
 - [x] Player movement and input bindings (C++)
 - [x] Interaction system
+- [x] Level Blockout
 
 ### 🛠️ In Progress
 - [ ] Level Streaming polish & navigation
@@ -76,8 +77,11 @@ I'm actively building the game with the following milestones:
 
 ## 🙋‍♂️ About Team
 
-**Daniel Slater** - Game Designer
-**Chukwuyenum Opone** - Game Programmer
+**Daniel Slater** - Level Design ![Linkedin](https://www.linkedin.com/in/daniel-slater-bb47491b0/)
+**Sebastián Chaparro Ruiz** - Narrative Design ![Linkedin](https://www.linkedin.com/in/sebasti%C3%A1n-chaparro-ruiz-1b8113238)
+**Chukwuyenum Opone** - Programming ![Linkedin](https://www.linkedin.com/in/yenum)
+**Jamie Campbell** - 3D Art ![Linkedin](https://www.linkedin.com/in/jamie-campbell-254042259/)
+**Oliver Tsujino** - 2D Art ![Linkedin](https://www.linkedin.com/in/oliver-tsujino/)
 
 
 ---
