@@ -83,7 +83,6 @@ I'm actively building the game with the following milestones:
 **Jamie Campbell** - 3D Art ![Linkedin](https://www.linkedin.com/in/jamie-campbell-254042259/)
 **Oliver Tsujino** - 2D Art ![Linkedin](https://www.linkedin.com/in/oliver-tsujino/)
 
-
 ---
 
 ## ⭐️ Goals for This Project
