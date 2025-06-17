@@ -26,16 +26,17 @@ This project is built using **Unreal Engine 5** and **Blueprint**, with a focus 
 
 ## 🚧 Current Development Workflow
 
-I'm actively building the game with the following milestones:
+Actively building the game for GJL Game Parade Spring 2025 Game Jam with the Theme: `Feedback Loop` with the following milestones:
 
 ### ✅ Core Systems Implemented
 - [x] Game Mode, and Instance
 - [x] Player movement and input bindings (C++)
-- [x] Interaction system
+- [x] Interaction system and Puzzles
 - [x] Level Blockout
 
 ### 🛠️ In Progress
 - [ ] Level Streaming polish & navigation
+- [ ] Integrating Narration with the Puzzles
 
 ### 🧪 Planned Features
 - [ ] Game end conditions
