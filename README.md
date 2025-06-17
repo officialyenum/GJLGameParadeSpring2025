@@ -77,11 +77,11 @@ I'm actively building the game with the following milestones:
 
 ## 🙋‍♂️ About Team
 
-- **Daniel Slater** - Level Design [Linkedin](https://www.linkedin.com/in/daniel-slater-bb47491b0/)
-- **Sebastián Chaparro Ruiz** - Narrative Design [Linkedin](https://www.linkedin.com/in/sebasti%C3%A1n-chaparro-ruiz-1b8113238)
-- **Chukwuyenum Opone** - Programming [Linkedin](https://www.linkedin.com/in/yenum)
-- **Jamie Campbell** - 3D Art [Linkedin](https://www.linkedin.com/in/jamie-campbell-254042259/)
-- **Oliver Tsujino** - 2D Art [Linkedin](https://www.linkedin.com/in/oliver-tsujino/)
+- **Daniel Slater** - Level Design [LinkedIn](https://www.linkedin.com/in/daniel-slater-bb47491b0/)
+- **Sebastián Chaparro Ruiz** - Narrative Design [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-chaparro-ruiz-1b8113238)
+- **Chukwuyenum Opone** - Programming [LinkedIn](https://www.linkedin.com/in/yenum)
+- **Jamie Campbell** - 3D Art [LinkedIn](https://www.linkedin.com/in/jamie-campbell-254042259/)
+- **Oliver Tsujino** - 2D Art [LinkedIn](https://www.linkedin.com/in/oliver-tsujino/)
 
 ---
 
