@@ -1,71 +1,62 @@
 # 🏰 GJLGameParadeSpring2025
 
-**A FPS GAME in Unreal Engine with Blueprints **
+**A First Person Narrative Puzzle GAME in Unreal Engine with Blueprints**
 
 ![Unreal Engine](https://img.shields.io/badge/Engine-Unreal%20Engine-1f1f1f?logo=unrealengine&logoColor=white)
 ![Blueprint](https://img.shields.io/badge/script-blueprint-blue?script=blueprint&logoColor=f5f5f5)
 
 ---
 
-## 🎮 What is *GAME NAME*?
+## 🎮 THE Damned
 
-*Gidi Treasure Scramble* is a fast-paced **multiplayer dungeon game**, where players compete to find the legendary **Gidi Treasure**. Set in an eerie procedurally lit dungeon, each match is a frantic search — open chests, cast spells to stun your rivals, and make your way to victory!
+*The Damned* is a slow-paced **narrative first person game**, where player lives between two generations!
 
-This project is built using **Unreal Engine 5** and **C++**, with a focus on gameplay programming, multiplayer replication, and fun, chaotic game design.
+This project is built using **Unreal Engine 5** and **Blueprint**, with a focus on gameplay programming, narrative driven walking simulator, mystery, and puzzle game design.
 
 ---
 
-## 🧩 Core Features (Replace)
+## 🧩 Core Features
 
-- ✅ **Multiplayer Support (UE5 C++ Networking)**
-- 🎯 **Competitive Dungeon Scavenger Hunt**
-- 🧙‍♂️ **Stunning Spells & Player Interactions**
-- 🗝️ **Interactable Chests to Find the Treasure**
-- 🧭 **Dynamic Dungeon Arena**
-- 📡 **Client-Server Architecture with Replicated Actors**
+- 🎯 **Puzzles**
+- 🧙‍♂️ **Player Interactions**
+- 🗝️ **Tasks and Audio Narration**
+- 🧭 **Deja Vu**
 
 ---
 
 ## 🚧 Current Development Workflow
 
-I'm actively building the game with the following milestones:
+Actively building the game for GJL Game Parade Spring 2025 Game Jam with the Theme: `Feedback Loop` with the following milestones:
 
 ### ✅ Core Systems Implemented
-- [x] Game Mode, States and Instance (C++)
+- [x] Game Mode, and Instance
 - [x] Player movement and input bindings (C++)
-- [x] Chest interaction system
-- [x] Door Open system
-- [x] Networked chest and Door state replication
-- [x] Dungeon arena polish & navigation
+- [x] Interaction system and Puzzles
+- [x] Level Blockout
 
 ### 🛠️ In Progress
-- [ ] Spell-casting mechanics (with cooldown + stun effect)
-- [ ] Basic multiplayer lobby + session joining
-- [ ] UI for spell cooldowns and chest looting
-- [ ] Sound and visual feedback for spells
+- [ ] Level Streaming polish & navigation
+- [ ] Integrating Narration with the Puzzles
 
 ### 🧪 Planned Features
-- [ ] Game end conditions & scoring system
-- [ ] Multiple dungeon layouts
-- [ ] Power-ups or traps in the environment
-- [ ] AI-controlled dungeon guardians (stretch goal)
+- [ ] Game end conditions
 
 ---
 
 ## 📂 Repo Structure
 
 ```
-/Source/GJLGameParadeSpring2025/          --> Main C++ game logic
-/Source/GJLGameParadeSpring2025/Game      --> Game Mode, State and Instance logic
-/Source/GJLGameParadeSpring2025/Character --> Character logic
-/Source/GJLGameParadeSpring2025/Player    --> Player Controller and State logic
-/Source/GJLGameParadeSpring2025/Component --> Player and Game System Logic will go here
-/Source/GJLGameParadeSpring2025/Data      --> Interfaces, Struct and Enumerations will be declared here
-/Source/GJLGameParadeSpring2025/Spells/   --> Spell-related C++ classes
-/Source/GJLGameParadeSpring2025/Chests/   --> Chest interaction & treasure logic
-/Maps/                        --> UE5 levels
-/Blueprints/                  --> Blueprint integrations for UI, extending C++ LOGIC & visuals
-/Inputs/                      --> Input Mapping and Actions
+/Core/                        --> Main game logic
+/Core/Assets/                 --> Game Audio Textures, Materials, Models etc...
+/Core/Blueprints/Game         --> Game Mode, Instance, Controller, and HUD logic
+/Core/Blueprints/Data         --> Tables, Struct and Enumerations will be declared here
+/Core/Blueprints/Actors       --> Interactable Actors, Systems and logic
+/Core/Blueprints/Character    --> Character logic
+/Core/Blueprints/Interfaces   --> Interfaces for clean code, optimizing and following programming patterns
+/Core/Blueprints/Interfaces   --> Widget Components logic
+/Core/Inputs                  --> Input Binding Logic
+/Core/LevelStreaming          --> Level Streaming Related
+/Core/Maps/                   --> UE5 levels
 ```
 
 ---
@@ -87,16 +78,17 @@ I'm actively building the game with the following milestones:
 
 ## 🙋‍♂️ About Team
 
-**Daniel Slater** - Game Designer
-**Chukwuyenum Opone** - Game Programmer
-
+- **Daniel Slater** - Level Design [LinkedIn](https://www.linkedin.com/in/daniel-slater-bb47491b0/)
+- **Sebastián Chaparro Ruiz** - Narrative Design [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-chaparro-ruiz-1b8113238)
+- **Chukwuyenum Opone** - Programming [LinkedIn](https://www.linkedin.com/in/yenum)
+- **Jamie Campbell** - 3D Art [LinkedIn](https://www.linkedin.com/in/jamie-campbell-254042259/)
+- **Oliver Tsujino** - 2D Art [LinkedIn](https://www.linkedin.com/in/oliver-tsujino/)
 
 ---
 
 ## ⭐️ Goals for This Project
 
-- Build a **polished multiplayer experience** in Unreal C++
-- Practice **network replication, combat, and game flow**
+- Build a **polished narrative experience** in Unreal 5.4
 - Showcase technical skills in **game architecture and systems design**
 - Develop a **fun, unique game idea** that could be scaled further
 
