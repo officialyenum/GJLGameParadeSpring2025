@@ -95,9 +95,15 @@ Actively building the game for GJL Game Parade Spring 2025 Game Jam with the The
 
 ---
 
-## 📸 Screenshots / Demo (Coming Soon!)
+## 📸 Screenshots / Demo
+- [GJL Game Parade Spring 2025 Submission Page](https://itch.io/jam/gjl-game-parade-spring-2025/rate/3656813)
+- [The Damned Itch Page](https://officialyenum.itch.io/the-damned)
 
-Stay tuned for GIFs and gameplay footage!
+## Gameplay footage!
+[![MasterHead](https://img.itch.zone/aW1nLzIxNzg0Mjg2LnBuZw==/original/p2dqff.png)](https://officialyenum.itch.io/the-damned)
+[![MasterHead](https://img.itch.zone/aW1hZ2UvMzY1NjgxMy8yMTgxMTY3MC5wbmc=/original/KLa18J.png)](https://officialyenum.itch.io/the-damned)
+[![MasterHead](https://img.itch.zone/aW1hZ2UvMzY1NjgxMy8yMTgxMDk1MC5wbmc=/original/u%2BQ90%2F.png)](https://officialyenum.itch.io/the-damned)
+
 
 ---
 
