@@ -17,10 +17,9 @@ This project is built using **Unreal Engine 5** and **Blueprint**, with a focus 
 
 ## 🧩 Core Features
 
-- 🎯 **Puzzles**
+- 🧭 **Deja Vu**
 - 🧙‍♂️ **Player Interactions**
 - 🗝️ **Tasks and Audio Narration**
-- 🧭 **Deja Vu**
 
 ---
 
@@ -30,16 +29,18 @@ Actively building the game for GJL Game Parade Spring 2025 Game Jam with the The
 
 ### ✅ Core Systems Implemented
 - [x] Game Mode, and Instance
-- [x] Player movement and input bindings (C++)
-- [x] Interaction system and Puzzles
+- [x] Player movement and input bindings (Enhanced Input)
+- [x] Interaction system
+- [x] Teleport system
 - [x] Level Blockout
-
+- [x] Level Streaming polish & navigation
+- [x] Integrating Narration with the Interaction System
+- [x] Game end conditions
 ### 🛠️ In Progress
-- [ ] Level Streaming polish & navigation
-- [ ] Integrating Narration with the Puzzles
+
 
 ### 🧪 Planned Features
-- [ ] Game end conditions
+- [ ] DLC Extend Story
 
 ---
 
@@ -53,7 +54,7 @@ Actively building the game for GJL Game Parade Spring 2025 Game Jam with the The
 /Core/Blueprints/Actors       --> Interactable Actors, Systems and logic
 /Core/Blueprints/Character    --> Character logic
 /Core/Blueprints/Interfaces   --> Interfaces for clean code, optimizing and following programming patterns
-/Core/Blueprints/Interfaces   --> Widget Components logic
+/Core/Blueprints/Widgets      --> Widget Components logic
 /Core/Inputs                  --> Input Binding Logic
 /Core/LevelStreaming          --> Level Streaming Related
 /Core/Maps/                   --> UE5 levels
@@ -63,7 +64,7 @@ Actively building the game for GJL Game Parade Spring 2025 Game Jam with the The
 
 ## 🚀 How to Run the Game
 
-> *Note: You will need Unreal Engine 5 installed to run this project.*
+> *Note: You will need Unreal Engine 5.4 installed to run this project.*
 
 1. Clone the repo:
    ```bash
